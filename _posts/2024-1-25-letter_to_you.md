@@ -17,6 +17,8 @@ author: Disnail
 
 点击上述链接，你将被引导至谷歌浏览器的官方下载页面。在这里，你可以根据你的操作系统选择相应的版本进行下载。页面提供了详细的安装指南，确保你能够顺利完成安装过程。
 
+![Chrome](https://www.google.cn/chrome/static/images/intl/zh_Hans_CN/dev-components/chrome-gallery-3-2x.webp "Chrome")
+
 ## Chrome特点概览
 
 - **快速性能**：谷歌浏览器采用了先进的V8引擎，使得网页加载和运行速度极快。
