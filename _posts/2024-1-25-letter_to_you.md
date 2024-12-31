@@ -9,7 +9,7 @@ author: Disnail
 
 浏览器是我们日常生活中不可或缺的工具之一。它不仅是我们获取信息的窗口，也是我们与世界沟通的桥梁。在众多浏览器中，谷歌浏览器（也就是Google Chrome）以其卓越的性能和安全性，成为了全球用户的首选。Chrome由全球知名的科技公司Google开发，自2008年推出以来，便以其简洁的用户界面、快速的浏览速度和强大的安全性能赢得了用户的青睐。
 
-这是谷歌浏览器的官网地址：https://www.google.cn/chrome/index.html
+这是谷歌浏览器的官网地址：<https://www.google.cn/chrome/index.html>
 
 请认准google.com以及google.cn，后者是谷歌中国的地址，虽然谷歌已经退出多年，很多服务都打不开，但Google Chrome的官方下载地址却被保留了下来，可以正常访问下载。
 
