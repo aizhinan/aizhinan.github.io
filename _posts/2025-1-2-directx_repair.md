@@ -22,7 +22,7 @@ DirectX是一个由微软开发的多媒体编程接口，用于处理视频、�
 
 本程序为了应对一般电脑用户的使用，采用了易用的一键式设计，只要点击主界面上的“检测并修复”按钮，程序就会自动完成校验、检测、下载、修复以及注册的全部功能，无需用户的介入，大大降低了使用难度。在常规修复过程中，程序还会自动检测DirectX加速状态，在异常时给予用户相应提示。
 
-![DirectX修复工具](https://i-blog.csdnimg.cn/blog_migrate/68325da79ed8a7fde076d34370eb3862.png "DirectX修复工具")
+![DirectX修复工具](https://zysoftware.top/zb_users/upload/2023/03/202303231679562824135301.jpg "DirectX修复工具")
 
 ## DirectX常见问题
 
