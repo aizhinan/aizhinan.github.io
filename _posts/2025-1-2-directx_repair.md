@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DirectX修复工具_官方免费下载入口"
-date:   2025-1-1
+date:   2025-1-2
 tags: [notice]
 comments: true
 author: disnail
