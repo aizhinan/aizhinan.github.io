@@ -18,7 +18,7 @@ SpaceSniffer的官方下载地址：<http://www.uderzo.it/main_products/space_sn
 
 此外，您还可以通过SourceForge这个官方镜像站点下载SpaceSniffer：<https://sourceforge.net/projects/spacesniffer/>
 
-![SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/media/download_screenshot.jpg "SpaceSniffer")
+![SpaceSniffer](https://sta-ali-dlwww.whrszx.com/spacesniffer-master/_next/static/media/snapshot.dc0437e5.png "SpaceSniffer")
 
 以上渠道下载的软件都能保证是官方正版。
 
