@@ -85,7 +85,7 @@ a {
   -ms-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
-
+  word-wrap: break-word;
   &:hover, &:active {
     color: $link-lighten-color;
   }
