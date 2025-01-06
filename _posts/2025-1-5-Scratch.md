@@ -20,6 +20,8 @@ Scratch目前支持Windows、MacOS和安卓系统，这里的安卓版Scratch仅
 
 安装完成后，点击软件，即可进入Scratch的编程界面，开始编程创作之旅。
 
+Scratch还提供了网页版：<https://scratch.zhike.in/>，如果你不想下载，可以使用在线网页版。
+
 ![Scratch](https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/17/98/44/179844e4-451f-5fd8-420f-e8f45b528753/pr_source.png/626x0w.webp "Scratch")
 
 ## 如何使用Scratch
