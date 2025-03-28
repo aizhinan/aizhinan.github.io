@@ -13,7 +13,7 @@ Winstep Nexus是一个功能强大且外观华丽的桌面应用程序启动器�
 
 Winstep Nexus的官网地址：<http://www.winstep.net/>，您可以从官网下载最新版本。
 
-如果官网打不开，你可以通过极客应用下载<https://www.gy328.com/app/spacesniffer/>，这里收录了官方软件包，任选一个线路，点击立即下载即可。
+如果官网打不开，你可以通过极客应用下载<https://www.gy328.com/app/winstep-nexus/>，这里收录了官方软件包，任选一个线路，点击立即下载即可。
 
 ![Winstep Nexus](https://s0.wp.com/mshots/v1/http://www.winstep.net/ "Winstep Nexus")
 
