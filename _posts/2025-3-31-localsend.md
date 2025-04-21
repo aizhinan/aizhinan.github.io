@@ -11,9 +11,9 @@ LocalSend 是一个跨平台应用程序，使用 REST API 和 HTTPS 加密实�
 
 ## LocalSend下载渠道
 
-LocalSend的官方下载地址：<https://localsend.org/>，您可以从官网直接下载最新版本。
+LocalSend的官网地址：<https://localsend.org/>，不过官网下载太慢，建议通过极客应用下载<https://www.gy328.com/app/localsend/>，点击立即下载，选择相应版本即可，这里提供的软件包和官网是一样的，区别是它对下载地址进行了加速。
 
-如果官网下载太慢，你可以通过极客应用下载<https://www.gy328.com/app/localsend/>，这里收录了官方软件包，点击立即下载即可，它同时提供了官网地址。
+如果你不想下载软件，也可以使用云鸽（地址：https://yunge.in），类似于网页版的localsend，只需设备双方都打开云鸽的地址，就能互相连接传文件或文字，日常使用非常方便。
 
 ![LocalSend](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/dd/06/b1/dd06b125-0bb0-3a30-f69b-43ca3dfa89c6/cae1b730-68d5-46f8-8b61-64284c15d8e8_receive-2.png/626x0w.webp "LocalSend")
 
