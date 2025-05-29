@@ -12,9 +12,7 @@ SpaceSniffer是一款免费且便携的磁盘空间分析工具，它利用Treem
 
 ## SpaceSniffer下载渠道
 
-SpaceSniffer的官方下载地址：<http://www.uderzo.it/main_products/space_sniffer/download_alt.html>，您可以从官网直接下载最新版本。
-
-如果官网下载遇到问题，你可以通过极客应用下载<https://www.gy328.com/app/spacesniffer/>，这里收录了官方软件包，点击立即下载即可，它同时提供了官网地址。
+SpaceSniffer的下载地址：<https://www.gy328.com/app/spacesniffer/>，您可以从这里直接下载最新版本。这里收录了官方软件包，点击立即下载即可，它同时提供了官网地址。
 
 此外，您还可以通过SourceForge这个官方镜像站点下载SpaceSniffer：<https://sourceforge.net/projects/spacesniffer/>
 
